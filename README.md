@@ -1,0 +1,1 @@
+This is the first version of our Library. We intended to use a I2C MPU6050 accelerometer and gyroscope sensor. Using MPU6050.java on your code, you'll be able to read the main data from the sensor. Use the robot.java example to know how to use the external sensor. In this example you can compare the reads from the internal accelerometer from Roborio and the external MPU6050.
